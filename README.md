@@ -31,7 +31,9 @@
 - Для сферы: радиус, объем.
 - Для куба: ребро, объем.
 
-=========
+____
 [пошаговое руководство](https://docs.microsoft.com/ru-ru/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-160)
+
 [настройка git](https://htmlacademy.ru/blog/boost/tools/git-console)
+
 [оформление readme.md](https://github.com/GnuriaN/format-README)
